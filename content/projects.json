@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Pajamas Live at The Caverns",
+    "artist": "Pajamas",
+    "image": "/images/CaveJam.jpg",
+    "description": "Pajamas Live at The Caverns captures the band's set recorded deep underground at The Caverns in Tennessee. Contributions include keyboards, recording, and mixing.",
+    "links": {
+      "spotify": "https://open.spotify.com/album/09nLp46aW0b44vT5n6j7zq",
+      "apple": "https://music.apple.com/us/album/pajamas-live-at-the-caverns/1843381025"
+    }
+  },
+  {
+    "title": "Featherbed",
+    "artist": "Pajamas",
+    "image": "/images/Featherbed.jpg",
+    "description": "Featherbed is Pajamas first full length album as a quartet. Contributions include keyboards, recording, arranging, mixing, and publishing.",
+    "links": {
+      "spotify": "https://open.spotify.com/album/0KOi1SVXWTAcRjBNVydVl3",
+      "apple": "https://music.apple.com/us/album/featherbed/1699925366"
+    }
+  },
+  {
+    "title": "You're Awake – Live at Willis Sound",
+    "artist": "Pajamas",
+    "image": "/images/You%27re%20Awake.jpg",
+    "description": "You're Awake – Live at Willis Sound captures Pajamas' live energy and improvisation. Contributions include piano, synth, and publishing.",
+    "links": {
+      "spotify": "https://open.spotify.com/album/3LBVu94x3tGsbuFEFSPmy4",
+      "youtube": "https://www.youtube.com/playlist?list=PLm2YeiP-_8oY_WgIVh7UF4c2kAK22aiXj",
+      "apple": "https://geo.music.apple.com/us/album/youre-awake-ep/1496862483?mt=1&app=music",
+      "amazon": "https://music.amazon.com/albums/B0849LV549"
+    }
+  },
+  {
+    "title": "Aapprrehension",
+    "artist": "Alana Pollard",
+    "image": "/images/aapprrehension.jpg",
+    "description": "Aapprrehension – Music written and recorded with Alana Pollard for her University of Michigan theatre performance \u201CIntroducing Nobody\u201D.",
+    "links": {
+      "spotify": "https://open.spotify.com/track/4ZSqtg7YYTaD18zDYHgJVt?si=2f7a26bbcdc74819",
+      "youtube": "https://www.youtube.com/watch?v=9RiFgUY7eO4",
+      "apple": "https://geo.music.apple.com/us/album/aapprrehension/1546175846?i=1546175847&itsct=music_box_link&itscg=30200&ct=songs_aapprrehension&app=music&ls=1",
+      "amazon": "https://music.amazon.com/artists/B08R724DG7/alana-pollard"
+    }
+  },
+  {
+    "title": "Astronaut",
+    "artist": "Tyrus Archer",
+    "image": "/images/Astronaut.jpeg",
+    "description": "Astronaut – Tyrus Archer shares deeply personal poems set to a genre bending, experimental (yet welcoming) hip-hop.",
+    "links": {
+      "spotify": "https://open.spotify.com/album/1HVPcIBXhNwkIya6UnY4YJ",
+      "youtube": "https://www.youtube.com/playlist?list=PLBczxK8GyUiYDacjTRzX3uhchbIaG6oEE",
+      "apple": "https://geo.music.apple.com/us/album/astronaut-ep/1544617021?itsct=music_box&itscg=30200&ct=albums_astronaut___ep&ls=1&app=music",
+      "amazon": "https://music.amazon.com/albums/B08QGF1S3N"
+    }
+  },
+  {
+    "title": "Peonies",
+    "artist": "Toaster Gnome",
+    "image": "/images/peonies.jpg",
+    "description": "Peonies was created as a score for a short film of the same name. The film is currently in consideration for the Ann Arbor Film Festival.",
+    "links": {
+      "spotify": "https://open.spotify.com/album/6g2rQKCUEbpmD1SGA2mSod",
+      "youtube": "https://www.youtube.com/watch?v=DETq2RcGDBo",
+      "soundcloud": "https://soundcloud.com/owenkellenberger/peonies",
+      "apple": "https://geo.music.apple.com/us/album/peonies-single/1474871608?mt=1&app=music",
+      "amazon": "https://music.amazon.com/albums/B07VTTJGD8"
+    }
+  },
+  {
+    "title": "Nokomis Breaks EP",
+    "artist": "Nokomis",
+    "image": "/images/Nokomisbreaks.png",
+    "description": "Nokomis Breaks EP – This is my first non-electronic project. Contributions include composition, production, engineering, and instrumentation.",
+    "links": {
+      "soundcloud": "https://soundcloud.com/nokomisband/sets/nokomis-breaks"
+    }
+  }
+]
